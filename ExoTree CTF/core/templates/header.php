@@ -20,5 +20,5 @@
         <div class="icon-sli-menu" id="mobile-sidebar-trigger"></div>
     </div>
 </header>
-<div id="header-hitbox"></div>
+<div id="header-hitbox" style="height: 68px"></div>
 <script type="text/javascript" src="/js/header.js"></script>

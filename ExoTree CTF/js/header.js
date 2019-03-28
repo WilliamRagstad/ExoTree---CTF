@@ -44,7 +44,7 @@ if (mobileMenuTrigger) {
         // Credits
         if (showCredits) {
             let credits = document.createElement("p");
-            credits.innerHTML = platformName + " is based on the template platform - <a href=\"#\" target=\"_blank\">ExoTree CTF</a>.";
+            credits.innerHTML = platformName + " is based on the template platform - <a href=\"https://github.com/WilliamRagstad/ExoTree-CTF\" target=\"_blank\">ExoTree CTF</a>.";
             credits.classList.add("creditsText");
             sidebar.appendChild( credits );
         }
