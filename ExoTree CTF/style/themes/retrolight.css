@@ -1,0 +1,20 @@
+body {
+    --header-bg: #4f0c77;
+    --header-color: white;
+    --header-logo-shadow: #0000;
+    --header-text-shadow: #1b30;
+    --header-link-hover-color: #bbb;
+    --header-link-hover-decor: underline;
+    --header-link-hover-shadow: #000;
+    --header-link-current-page-color: #00ffee;
+    --footer-bg: var(--header-bg);
+    --mobile-sidebar-bg: #f5f5f5;
+    --mobile-sidebar-color: #222;
+    --mobile-sidebar-width: 50vw;
+    --mobile-sidebar-link-hover-color: var(--header-link-hover-color);
+    --mobile-sidebar-current-page-bg: var(--header-link-current-page-color);
+    --content-width-pc: 80vw;
+    --content-width-mobile: 100vw;
+    --content-padding: 15px;
+    --h-colors: rgb(202, 1, 208);
+}
